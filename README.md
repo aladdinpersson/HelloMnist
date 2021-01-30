@@ -1,6 +1,6 @@
 # Hello Mnist
 
-![alt-text-1](img1.png "title-1") ![alt-text-2](img2.png "title-2")
+<img src="img1.png" width="425"/> <img src="img2.png" width="425"/> 
 
 Video building this app: https://youtu.be/Yla6MqEePh8
 
